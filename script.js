@@ -54,7 +54,7 @@ let array4 = [1, 2, 3, 4, 5]
 
 let result = 0;
 
-array4.forEach(nombers => { result += nombers; })
+array4.forEach(numbers => { result += numbers; })
 
 console.log(result);
 
@@ -172,7 +172,7 @@ function getinfo() {
   userinfo();
   console.log(info);
 }
-// ?  ??
+// დაბეჭდავს იუზერ ინფოში შეყვანილ მასალას
 
 
 console.log(nameuser);
